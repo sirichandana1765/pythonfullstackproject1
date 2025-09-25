@@ -1,6 +1,6 @@
 # db_manager.py
 import os
-from supabase import create_client
+from Supabase import create_client
 from dotenv import load_dotenv
 from datetime import datetime
 
