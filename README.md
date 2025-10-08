@@ -106,7 +106,7 @@ python main.py
 1.**"trouble not found" errors**
 -make sure you've installed all dependencies:`pip install -r requirements.txt`
 -check that you've  running commands from the correct directory 
-# future enchancements 
+# future enchancements CMLLEKSYPESHCL97PPBMKL24
 ideas for extending this projects 
 **user authentication**:add your accounts and login 
 **task categories**:organise task by subject or category 
